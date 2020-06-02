@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1591098382 source:d:\university shareef\pf\project\bank_transiction_management2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+	"depositAmount.h"
+	"withdrawAmount.h"
+	"transferAmount.h"
+	"history.h"
+
+1591094263 d:\university shareef\pf\project\bank_transiction_management2\menu.h
+
+1591096366 d:\university shareef\pf\project\bank_transiction_management2\depositamount.h
+
+1591096356 d:\university shareef\pf\project\bank_transiction_management2\withdrawamount.h
+
+1591096348 d:\university shareef\pf\project\bank_transiction_management2\transferamount.h
+
+1591098394 d:\university shareef\pf\project\bank_transiction_management2\history.h
+
